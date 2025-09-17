@@ -1,0 +1,10 @@
+# 忽略不需要部署的文件
+.deploy_git/
+node_modules/
+scaffolds/
+themes/
+.git/
+.gitignore
+*.log
+.DS_Store
+Thumbs.db
